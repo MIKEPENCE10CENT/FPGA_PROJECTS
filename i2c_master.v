@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 // Created by Aditya Soni
-// Date 10.15.2023
+// Date 10.15.2024
 // I2C Master for the Nexys A7 Temperature Sensor
 
 module i2c_master(
